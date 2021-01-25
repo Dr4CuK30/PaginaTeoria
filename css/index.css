@@ -1,0 +1,31 @@
+header{
+    background-color: #82bdd1;
+    padding: 10px;
+    transition: background-color .3s;
+}
+
+header nav a{
+    color: #fcf8ec!important;
+    font-size: 20px ;
+}
+
+header nav ul a{
+    margin-left: 25px;
+}
+
+header img{
+    width: 50px;
+    margin-right: 10px;
+}
+
+body{
+    background-color: #bedcfa;
+}
+
+header:hover{
+    background-color: #79a3b1;
+}
+
+nav .disabled{
+    color:#bbb5b5 !important;
+}
